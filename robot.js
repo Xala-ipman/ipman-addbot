@@ -139,4 +139,4 @@ let professor = new Discord.MessageEmbed()
 
    
 /////////////////  ////////////////
-client.login("ODA2NDI3NDA5NTUzMTYyMjQw.YBpSDQ.AYypzAb75DnVZWxqFssYCUaLfwU");
+client.login("ODA2NDI3NDA5NTUzMTYyMjQw.YBpSDQ.GNHDNIabD2KRkb3zEPB2BD-XL2c");
