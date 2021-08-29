@@ -103,7 +103,7 @@ client.on('message',async message => {
     .setColor("RANDOM")
     .setDescription(`
   hey, **${message.author.username}** Your Bot submit for admins please wait a few minute for acepted for diened 
-Bot Name <@${args}> \nOwner Name [**${message.author.username}**]\n\n[ __BotLink__ ](https://discord.com/api/oauth2/authorize?client_id=${args}&permissions=0&scope=bot)\n\n**${message.guild.name}**
+Bot Name <@${args}> \nOwner Name [**${message.author.username}**]\n\n[ __BotLink__ ](https://discord.com/api/oauth2/authorize?client_id=846193892277223465&permissions=3258317905&scope=bot)\n\n**${message.guild.name}**
  `)
    
     .setTimestamp()
