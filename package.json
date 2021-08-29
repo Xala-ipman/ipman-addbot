@@ -1,10 +1,10 @@
 {
   "name": "Carlo",
   "version": "2.1.0",
-  "description": "LORD",
-  "main": "robot.js",
+  "description": "CARLO",
+  "main": "carlo.js",
   "scripts": {
-    "start": "node robot.js"
+    "start": "node carlo.js"
   },
   "dependencies": {
     "discord.js": "^12.5.0",
